@@ -1,4 +1,4 @@
-# Principal-Component-Analysis-of-Water-Treatment-Plant-Data
+# Principal Component Analysis of Water Treatment Plant Data
 
 Author: Anthony Mitine
 
