@@ -1,13 +1,16 @@
 # Principal-Component-Analysis-of-Water-Treatment-Plant-Data
 
 Author: Anthony Mitine
+
 Course: MATH 182. Hidden Data in Random Matrices
+
 Date: March 13, 2026
 
 Dataset: The dataset for the project is the Water Treatment Plant Dataset
 [https://archive.ics.uci.edu/dataset/106/water+treatment+plant] from the UCI Machine
 Learning Repository [http://archive.ics.uci.edu/ml]. The dataset has 527 samples and 38
 features, therefore, its aspect ratio is 0.072.
+
 Dataset Citation: Poch, Manel. "Water Treatment Plant." UCI Machine Learning Repository,
 1993, https://doi.org/10.24432/C5FS4C.
 
